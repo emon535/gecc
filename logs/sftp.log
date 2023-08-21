@@ -1,0 +1,18 @@
+Jan  7 12:50:32 10.71.57.0 tmp80232955-998 Connection from 10.71.57.0 port 31174 on 82.165.81.242 port 22
+Jan  7 12:50:32 10.71.57.0 tmp80232955-998 Accepted password for tmp80232955-998 from 10.71.57.0 port 31174 ssh2
+Jan  7 12:50:32 10.71.57.0 tmp80232955-998 Starting session: subsystem 'sftp' for tmp80232955-998 from 10.71.57.0 port 31174 id 0
+Jan  7 12:50:32 10.71.57.0 tmp80232955-998 session opened for local user tmp80232955-998 from [10.71.57.0]
+Jan  7 12:51:29 10.71.57.0 tmp80232955-998 open "/resources.zip" flags READ mode 0666
+Jan  7 12:51:29 10.71.57.0 tmp80232955-998 close "/resources.zip" bytes read 133784 written 0
+Jan  7 12:51:29 10.71.57.0 tmp80232955-998 [10.71.57.0|get|0|133784|0|0|0|2f7265736f75726365732e7a6970|]
+Jan  7 12:51:36 10.71.57.0 tmp80232955-998 open "/public.zip" flags READ mode 0666
+Jan  7 12:51:36 10.71.57.0 tmp80232955-998 close "/public.zip" bytes read 36485033 written 0
+Jan  7 12:51:36 10.71.57.0 tmp80232955-998 [10.71.57.0|get|0|36485033|0|0|0|2f7075626c69632e7a6970|]
+Jan  7 12:55:59 10.71.57.0 tmp80232955-2369 Connection from 10.71.57.0 port 36870 on 82.165.81.242 port 22
+Jan  7 12:55:59 10.71.57.0 tmp80232955-2369 Accepted password for tmp80232955-2369 from 10.71.57.0 port 36870 ssh2
+Jan  7 12:56:24 10.71.57.0 tmp80232955-998 open "/app.zip" flags READ mode 0666
+Jan  7 12:56:24 10.71.57.0 tmp80232955-998 close "/app.zip" bytes read 206744 written 0
+Jan  7 12:56:24 10.71.57.0 tmp80232955-998 [10.71.57.0|get|0|206744|0|0|0|2f6170702e7a6970|]
+Jan  7 12:56:46 10.71.57.0 tmp80232955-998 open "/geccapp.zip" flags READ mode 0666
+Jan  7 12:56:46 10.71.57.0 tmp80232955-998 close "/geccapp.zip" bytes read 622 written 0
+Jan  7 12:56:46 10.71.57.0 tmp80232955-998 [10.71.57.0|get|0|622|0|0|0|2f676563636170702e7a6970|]
